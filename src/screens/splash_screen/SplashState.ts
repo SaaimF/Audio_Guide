@@ -1,0 +1,6 @@
+export enum SplashState {
+  FADE_IN_IMAGE = 'FADE_IN_IMAGE',
+  WAIT_FOR_APP_TO_BE_READY = 'WAIT_FOR_APP_TO_BE_READY',
+  FADE_OUT = 'FADE_OUT',
+  HIDDEN = 'HIDDEN'
+}

@@ -1,0 +1,13 @@
+{
+  "side_menu": {
+    "support": "Support",
+    "home": "Home",
+    "restore_purchases": "Restore purchases",
+    "rp_modal": {
+      "ok_text": "Purchases successfully restored",
+      "err_text": "Error restoring purchases",
+      "retry_btn_text": "Try again",
+      "close_btn_text": "Close"
+    }
+  }
+}

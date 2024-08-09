@@ -1,0 +1,13 @@
+{
+  "onboarding": {
+    "first": {
+      "top_button": "Skip",
+      "bottom_button": "Next",
+      "carousel_text": "Welcome to the\nAudio Guide Paris app!"
+    },
+    "second": {
+      "button": "Let's start!",
+      "carousel_text": "Discover interesting and lesser-known information about the history\nand architecture of monuments, sites\ntourist districts, and streets in Paris..."
+    }
+  }
+}

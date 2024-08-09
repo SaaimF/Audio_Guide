@@ -1,0 +1,12 @@
+{
+  "home_screen": {
+    "error": {
+      "network": "Il semble qu'il y ait des problèmes avec Internet. Vérifiez votre connexion.",
+      "tech_works": "Des travaux techniques sont en cours. Veuillez patienter.",
+      "retry_btn": "Actualiser la page",
+      "quit_button": "Quittez l'application"
+    },
+    "header": "Quartiers",
+    "exit_confirmation": "Appuyer à nouveau pour quitter"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ri_screen": {
+    "go_btn": "Go!",
+    "not_ready_route": "The route is in development. It will be added soon!",
+    "not_ready_btn": "Back to routes"
+  }
+}

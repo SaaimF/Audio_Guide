@@ -1,0 +1,7 @@
+{
+  "ri_screen": {
+    "go_btn": "C’est parti!",
+    "not_ready_route": "L'itinéraire est en cours d'élaboration. Nous l'ajouterons bientôt !",
+    "not_ready_btn": "Retour aux itinéraires"
+  }
+}

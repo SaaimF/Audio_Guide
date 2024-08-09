@@ -1,0 +1,13 @@
+{
+  "side_menu": {
+    "support": "Support",
+    "home": "Accueil",
+    "restore_purchases": "Restaurer les achats",
+    "rp_modal": {
+      "ok_text": "Achats restaurés avec succès",
+      "err_text": "Erreur lors de la restauration des achats",
+      "retry_btn_text": "Réessayer",
+      "close_btn_text": "Retour"
+    }
+  }
+}

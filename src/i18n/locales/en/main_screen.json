@@ -1,0 +1,12 @@
+{
+  "home_screen": {
+    "error": {
+      "network": "It seems there are problems with the Internet. Check your connection.",
+      "tech_works": "Technical work is underway. Please wait.",
+      "retry_btn": "Try again",
+      "quit_button": "Close app"
+    },
+    "header": "Districts",
+    "exit_confirmation": "Press again to exit"
+  }
+}

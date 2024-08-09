@@ -1,0 +1,13 @@
+{
+  "onboarding": {
+    "first": {
+      "top_button": "Passer",
+      "bottom_button": "Suivant",
+      "carousel_text": "Bienvenue dans l'application\n Audioguide Paris!"
+    },
+    "second": {
+      "button": "C’est parti!",
+      "carousel_text": "Découvrez des informations\nintéressantes et méconnues sur\nl’histoire et l’architecture des\nmonuments, des sites, des quartiers et\ndes rues touristiques de Paris..."
+    }
+  }
+}

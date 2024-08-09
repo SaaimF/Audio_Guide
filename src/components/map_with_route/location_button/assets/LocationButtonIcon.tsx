@@ -1,0 +1,13 @@
+import Svg, {Circle, Path} from "react-native-svg";
+import React from "react";
+
+const LocationButtonIcon: React.FC = () => {
+  return(
+    <Svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <Circle cx="12" cy="12" r="4" fill="#FF4F51"/>
+      <Path fillRule="evenodd" clipRule="evenodd" d="M12 1C12.5523 1 13 1.44772 13 2V4.06189C16.6187 4.51314 19.4869 7.38128 19.9381 11H22C22.5523 11 23 11.4477 23 12C23 12.5523 22.5523 13 22 13H19.9381C19.4869 16.6187 16.6187 19.4869 13 19.9381V22C13 22.5523 12.5523 23 12 23C11.4477 23 11 22.5523 11 22V19.9381C7.38128 19.4869 4.51314 16.6187 4.06189 13H2C1.44772 13 1 12.5523 1 12C1 11.4477 1.44772 11 2 11H4.06189C4.51314 7.38128 7.38128 4.51314 11 4.06189V2C11 1.44772 11.4477 1 12 1ZM6 12C6 15.3137 8.68629 18 12 18C15.3137 18 18 15.3137 18 12C18 8.68629 15.3137 6 12 6C8.68629 6 6 8.68629 6 12Z" fill="#FF4F51"/>
+    </Svg>
+  )
+}
+
+export default LocationButtonIcon
